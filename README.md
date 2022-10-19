@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Vishnu](https://github.com/VishnuTB)
+# Hi, I’m [Vishnu](https://github.com/VishnuTB)
 Experienced android developer with a demonstrated history of working in the software design and development industry.
 Skilled in Research, Management, Mobile/Web Development and UI/UX Design.
 
