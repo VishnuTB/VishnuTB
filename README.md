@@ -2,9 +2,9 @@
 Experienced android developer with a demonstrated history of working in the software design and development industry.
 Skilled in Research, Management, Mobile/Web Development and UI/UX Design.
 
-[About Me](https://about.me/vishnutb)
+_[About Me](https://about.me/vishnutb)_
 
-[LinkedIn](https://www.linkedin.com/in/vishnutb/)
+_[LinkedIn](https://www.linkedin.com/in/vishnutb/)_
 
 <!---
 VishnuTB/VishnuTB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
