@@ -3,7 +3,6 @@ Experienced android developer with a demonstrated history of working in the soft
 Skilled in Research, Management, Mobile/Web Development and UI/UX Design.
 
 [About Me](https://about.me/vishnutb)
- 
 [LinkedIn](https://www.linkedin.com/in/vishnutb/)
 
 <!---
