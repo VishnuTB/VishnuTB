@@ -1,6 +1,6 @@
 ## Hi, I’m [Vishnu](https://github.com/VishnuTB)
 Experienced mobile developer with a demonstrated history of working in the software design and development industry.
-Skilled in Research, Management, Mobile/Web Development and UI/UX design and development.
+Skilled in Research, Management, Mobile/Web - UI/UX design and development.
 
 _[About Me](https://about.me/vishnutb)_
 
